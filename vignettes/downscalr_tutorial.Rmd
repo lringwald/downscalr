@@ -30,7 +30,7 @@ In what follows, each process in Figure 1 -- from left to right -- and how it is
 
 ## Getting started
 
-Before we can start with the actual downscaling, some required packages have to be mounted to your `R session`. The first three are standard packages to facilitate data manipulation and the last one, of course, is the subject of this tutorial.
+Before we can start with the actual downscaling, some required packages have to be attached to your `R session`. The first three are standard packages to facilitate data manipulation and the last one, of course, is the subject of this tutorial.
 
 ```{r eval=FALSE, echo=T, message=FALSE, warning=FALSE, include=FALSE}
 #install.packages("tidyr","tibble","dplyr")
